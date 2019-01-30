@@ -1,0 +1,17 @@
+{
+  "name": "movie-title-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Soner Can <soner2@gmail.com> (http://www.sonercan.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
